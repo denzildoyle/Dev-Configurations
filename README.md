@@ -1,7 +1,7 @@
 # Dev Configurations
 
-## `VSCode/settings.json`
-### Settings File Locations
+### `VSCode/settings.json`
+#### Settings File Locations
 Depending on your platform, the user settings file is located here:
 
 - Windows `%APPDATA%\Code\User\settings.json`
