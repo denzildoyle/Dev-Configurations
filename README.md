@@ -12,7 +12,5 @@ Depending on your platform, the user settings file is located here:
   
 ### `VSCode/vscode-extensions.list`
 #### VSCode Extensions
-On the old machine:
-`code --list-extensions > vscode-extensions.list`
-On the new machine:
-`cat vscode-extensions.list | xargs -L 1 code --install-extension`
+- On the old machine: `code --list-extensions > vscode-extensions.list`  
+- On the new machine: `cat vscode-extensions.list | xargs -L 1 code --install-extension`  
